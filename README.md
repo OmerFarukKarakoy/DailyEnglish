@@ -22,6 +22,7 @@ Features
 -User-friendly interface with smooth animations
 
 
+
 Screenshots
 
 Below are some screenshots of the application:
@@ -52,15 +53,18 @@ Technologies Used
 
 
 
+
 Contributing
 
 If you would like to contribute, please fork the repository and submit a pull request.
 
 
 
+
 License
 
 This project is licensed under the MIT License.
+
 
 
 
