@@ -1,22 +1,19 @@
-DailyEnglish
+DAILYENGLISH
+
 
 Introduction
 
 DailyEnglish is a real-time chat application developed using React Native and Firebase. This application allows users to practice English by chatting with others in real time.
 
+
 Features
+-User authentication (Sign up & Login) with Firebase Authentication
+-Real-time messaging using Firebase Firestore
+-Profile management
+-Online status indicator
+-Push notifications for new messages
+-User-friendly interface with smooth animations
 
-User authentication (Sign up & Login) with Firebase Authentication
-
-Real-time messaging using Firebase Firestore
-
-Profile management
-
-Online status indicator
-
-Push notifications for new messages
-
-User-friendly interface with smooth animations
 
 Screenshots
 
@@ -34,24 +31,25 @@ Below are some screenshots of the application:
   
 
 Technologies Used
+-React Native
+-Firebase Authentication
+-Firebase Firestore
+-React Navigation
+-Expo (Optional)
 
-React Native
 
-Firebase Authentication
-
-Firebase Firestore
-
-React Navigation
-
-Expo (Optional)
 
 Contributing
 
 If you would like to contribute, please fork the repository and submit a pull request.
 
+
+
 License
 
 This project is licensed under the MIT License.
+
+
 
 Contact
 
