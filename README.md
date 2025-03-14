@@ -21,6 +21,8 @@ User-friendly interface with smooth animations
 Screenshots
 
 Below are some screenshots of the application:
+
+
 ![Ekran görüntüsü](https://github.com/user-attachments/assets/a44ec9a5-8460-40cb-945e-d1261b02463a)
 ![Ekran görüntüsü2](https://github.com/user-attachments/assets/a2135dfc-3dd8-429d-a628-25b71186ef72)
 ![Ekran görüntüsü3](https://github.com/user-attachments/assets/7dfc7780-6b3b-4927-8788-87612947448b)
