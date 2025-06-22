@@ -1,31 +1,26 @@
-DAILYENGLISH
+# 📱 DAILYENGLISH
+
+## 📝 Proje Tanıtımı
+
+**DailyEnglish**, kullanıcıların gerçek zamanlı olarak İngilizce pratik yapmalarını sağlayan bir sohbet uygulamasıdır. React Native ve Firebase teknolojileri kullanılarak geliştirilmiştir. Kullanıcılar uygulamaya giriş yaptıktan sonra diğer kullanıcılarla anlık olarak sohbet edebilir, profillerini yönetebilir ve bildirimler alabilirler.
+
+---
+
+## 🚀 Özellikler
+
+- 🔐 Firebase Authentication ile kullanıcı kaydı ve giriş sistemi
+- 💬 Firebase Firestore ile gerçek zamanlı mesajlaşma
+- 👤 Profil yönetimi
+- 🟢 Çevrimiçi durum göstergesi
+- 🔔 Yeni mesajlar için push bildirim sistemi
+- 📱 Akıcı animasyonlara sahip kullanıcı dostu arayüz
+
+---
 
 
-Introduction
+## 📸 Uygulama Görselleri
 
-DailyEnglish is a real-time chat application developed using React Native and Firebase. This application allows users to practice English by chatting with others in real time.
-
-
-
-Features
-
--User authentication (Sign up & Login) with Firebase Authentication
-
--Real-time messaging using Firebase Firestore
-
--Profile management
-
--Online status indicator
-
--Push notifications for new messages
-
--User-friendly interface with smooth animations
-
-
-
-Screenshots
-
-Below are some screenshots of the application:
+Aşağıda uygulamaya ait bazı ekran görüntüleri yer almaktadır:
 
 
 ![Ekran görüntüsü](https://github.com/user-attachments/assets/a44ec9a5-8460-40cb-945e-d1261b02463a)
@@ -35,39 +30,21 @@ Below are some screenshots of the application:
 
 
 
+## 🛠️ Kullanılan Teknolojiler
 
-  
+- ⚛️ React Native
+- 🔥 Firebase Authentication
+- 🧮 Firebase Firestore
+- 🔁 React Navigation
+- 📦 Expo (İsteğe bağlı)
 
-Technologies Used
+---
 
--React Native
+## 👨‍💻 Geliştirici
 
--Firebase Authentication
+**Ömer Faruk Karakoy**  
+🌐 GitHub: [github.com/OmerFarukKarakoy](https://github.com/OmerFarukKarakoy)  
+📧 Mail: omerfarukkarakoy@gmail.com
 
--Firebase Firestore
+---
 
--React Navigation
-
--Expo (Optional)
-
-
-
-
-
-Contributing
-
-If you would like to contribute, please fork the repository and submit a pull request.
-
-
-
-
-License
-
-This project is licensed under the MIT License.
-
-
-
-
-Contact
-
-For any inquiries or suggestions, feel free to contact me at GitHub.
